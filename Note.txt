@@ -1,0 +1,10 @@
+Veri tabanı bağlantısı mongoDB ile sağlandı. MongoDB bulutuna ilk olarak users ve employees modelleri aktarıldı
+Veri tabanı için gerekli bilgiler .env dosyasının içinde bulunmaktadır. 
+Cookies için gerekli olan ACCESS_TOKEN_SECRET ve REFRESH_TOKEN_SECRET bilgileride env klasörü içerisinde buulunmakta
+
+-------MangoDB.com
+-------Giriş
+-------Projects
+-------MongoCourse
+-------BrowseCollection
+-------CompanyDB(veritabanı ismi)
