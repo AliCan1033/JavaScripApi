@@ -8,3 +8,18 @@ Cookies için gerekli olan ACCESS_TOKEN_SECRET ve REFRESH_TOKEN_SECRET bilgileri
 -------MongoCourse
 -------BrowseCollection
 -------CompanyDB(veritabanı ismi)
+
+
+GET/ID: http://localhost:3500/employees/63f71800798961c086467f0f
+DELETE: http://localhost:3500/employees
+PUT:    http://localhost:3500/employees,
+POST:   http://localhost:3500/employees
+GET:    http://localhost:3500/employees
+
+AUTH
+POST: http://localhost:3500/auth
+POST: http://localhost:3500/register 
+GET:  http://localhost:3500/logout  
+
+REFRESH TOKEN
+GET:  http://localhost:3500/refresh  
